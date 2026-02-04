@@ -3,3 +3,9 @@ cmake-build-debug
 cmake-build-release
 roms/pacman.*
 roms/82s12*
+
+# cmake
+/build/
+
+# macos
+.DS_Store
